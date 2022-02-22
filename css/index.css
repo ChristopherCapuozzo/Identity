@@ -38,4 +38,5 @@ html, body {
     border-right: 2px black solid;
     
     border-radius: 5px;
+    box-shadow: 7px 7px 20px 7px #737373;;
 }
